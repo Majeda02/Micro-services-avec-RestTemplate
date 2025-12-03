@@ -1,6 +1,6 @@
 ## "# Micro-services-avec-RestTemplate" 
 
-### objectif :  
+### Objectif :  
 Il permis de mettre en place une architecture microservices complète avec:
 * Un service de découverte (Eureka)
 * Une passerelle API (Gateway)
